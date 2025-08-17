@@ -60,7 +60,7 @@ Two options:
 Run the script:
 
 ```bash
-python media_fetcher_cli.py
+python media-fetcher.py
 ```
 
 It will ask:
